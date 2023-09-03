@@ -1,0 +1,22 @@
+# version: '3'
+# services:
+  # postgres:
+    # Налаштування PostgreSQL контейнера
+
+  # redis:
+    # Налаштування Redis контейнера
+
+  # rabbitmq:
+    # Налаштування RabbitMQ контейнера
+
+  # celery:
+    # Налаштування Celery контейнера
+
+  # mailhog:
+    # Налаштування Mailhog контейнера
+
+  # nginx:
+    # Налаштування Nginx контейнера
+
+  # admin_app:
+    # Налаштування Django контейнера для admin проекту
